@@ -250,4 +250,4 @@ if __name__ == "__main__":
     init_db()
     print("BuildPay backend running at http://127.0.0.1:5000")
     print("Demo admin: admin / admin123 | Worker demo PIN: 1234")
-    app.run(debug=True)
+    
